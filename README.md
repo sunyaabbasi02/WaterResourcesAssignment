@@ -1,4 +1,5 @@
-## Email: sunyaabbasi02@gmail.com
+## Sunya Abbasi
+### Email: sunyaabbasi02@gmail.com
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
