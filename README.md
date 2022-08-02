@@ -10,5 +10,5 @@ I am a rising junior at UC Berkeley studying Data Science with an emphasis in In
 
 <img src="./resized.png" style="width:50%; margin:auto; display:block">
 
-A song I like: <iframe src="https://open.spotify.com/embed/track/1OCWIWaX0vxZyGPD1YgUKi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1OCWIWaX0vxZyGPD1YgUKi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
