@@ -12,4 +12,3 @@ I am a rising junior at UC Berkeley studying Data Science with an emphasis in In
 
 <iframe src="https://open.spotify.com/embed/track/1OCWIWaX0vxZyGPD1YgUKi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmI_ygVOoLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
