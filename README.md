@@ -1,27 +1,6 @@
 ## Sunya Abbasi
 ### Email: sunyaabbasi02@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Sunya Abbasi
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### About Me
 
@@ -31,5 +10,5 @@ I am a rising junior at UC Berkeley studying Data Science with an emphasis in In
 
 <img src="./resized.png" style="width:50%; margin:auto; display:block">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunyaabbasi02/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A song I like: <iframe src="https://open.spotify.com/embed/track/1OCWIWaX0vxZyGPD1YgUKi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
