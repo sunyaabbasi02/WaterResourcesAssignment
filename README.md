@@ -29,5 +29,7 @@ I am a rising junior at UC Berkeley studying Data Science with an emphasis in In
 
 [My favorite YouTube Video](https://www.youtube.com/watch?v=WtJjjHOpHoo)
 
+<img src="./resized.png" style="width:50%; margin:auto; display:block">
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunyaabbasi02/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
