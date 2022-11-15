@@ -1,10 +1,10 @@
-## Sunya Abbasi
-### Email: sunyaabbasi02@gmail.com
+## Sunya Abbasi 
+### EPS 80 Water Resources Assignment
 
 
-### About Me
+### California Water Resources
 
-I am a rising junior at UC Berkeley studying Data Science with an emphasis in Inequalities in Society. This website showcases a few of the course and personal projects that I've completed thus far. Thank you for visiting!
+
 
 [My favorite YouTube Video](https://www.youtube.com/watch?v=WtJjjHOpHoo)
 
