@@ -1,5 +1,5 @@
-## Sunya Abbasi 
-### EPS 80 Water Resources Assignment
+## EPS 80 Water Resources Assignment
+### Sunya Abbasi
 
 
 ### California Water Resources
