@@ -4,11 +4,11 @@
 
 ### California Water Resources
 
+California's water resources are currently sparse. The goal of this website is to help educate people on why California's water resources are in a dire state, what the consequences of drought are, and what we might do to solve the problem.
 
-
+#### Where Does California get it's Water From?
 [My favorite YouTube Video](https://www.youtube.com/watch?v=WtJjjHOpHoo)
 
-<img src="./resized.png" style="width:50%; margin:auto; display:block">
 
-<iframe src="https://open.spotify.com/embed/track/1OCWIWaX0vxZyGPD1YgUKi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+Sources:
+https://www.nature.org/media/california/california_drinking-water-sources-2012.pdf
